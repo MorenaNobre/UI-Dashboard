@@ -6,4 +6,8 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
+
+  *, double-button, input {
+    font-family: 'Ubuntu', sans-serif;
+  }
 `
