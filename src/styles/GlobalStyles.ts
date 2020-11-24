@@ -24,5 +24,6 @@ export default createGlobalStyle`
     --light-grey: #7D7F81;
     --dark-grey: #696969;
     --blue-primary: #7CA3DE;
+    --blue-hover: #187CBE;
   }
 `

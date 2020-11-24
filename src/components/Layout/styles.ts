@@ -22,7 +22,3 @@ export const Grid = styled.div`
 
   height: 100vh;
 `
-
-export const Menu = styled.div`
-
-`
