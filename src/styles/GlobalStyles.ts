@@ -18,7 +18,8 @@ export default createGlobalStyle`
   }
 
   :root {
-    --white-bg: #F4F5F9;
+    --white-bg: #e3e4e5;
+    /* --white-bg: #F4F5F9; */
     --white-card: #C2DAFF;
     --white-icon: #FFFDFF;
     --light-grey: #7D7F81;

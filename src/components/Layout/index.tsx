@@ -1,14 +1,14 @@
-import React from 'react'
+import React from "react";
 
-import { Grid } from './styles'
+import { Grid } from "./styles";
 
-import Menu from '../Menu'
-import HelloName from '../HelloName'
-import Calendar from '../Calendar'
-import UserInfo from '../UserInfo'
-import Total from '../Total'
-import MeasureGraphics from '../MeasureGraphics'
-import Most from '../Most'
+import Menu from "../Menu";
+import HelloName from "../HelloName";
+import Calendar from "../Calendar";
+import UserInfo from "../UserInfo";
+import Total from "../Total";
+import MeasureGraphics from "../MeasureGraphics";
+import Most from "../Most";
 
 const Layout: React.FC = () => {
   return (
@@ -21,7 +21,7 @@ const Layout: React.FC = () => {
       <MeasureGraphics />
       <Most />
     </Grid>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;

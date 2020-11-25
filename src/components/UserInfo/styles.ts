@@ -32,6 +32,7 @@ export const Notification = styled.p`
   font-size: 16px;
   color: var(--dark-grey);
   margin-right: 20px;
+  cursor: pointer;
 `;
 
 export const ChatIcon = styled(Chatbubbles)`
@@ -45,6 +46,7 @@ export const Chat = styled.p`
   font-size: 16px;
   color: var(--dark-grey);
   margin-right: 20px;
+  cursor: pointer;
 `;
 
 export const Avatar = styled.div`
